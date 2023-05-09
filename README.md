@@ -10,7 +10,7 @@ General Awareness
 Time management
 Numerical Ability
 Web Link
-Website Live on -- https://master--nimble-taiyaki-85ba10.netlify.app/
+Website Live on -- (https://swathimudhiraj.github.io/ELitmus-Project/)
 
 Possible ways
 There are 6 quizes in this puzzle leading to the final page. At each step the user has to write an answer in the input box , irrespective of case sensitive by using the hints given to the user. The puzzle can be solved in only one way, by answering all the questions of all the six quizes.
